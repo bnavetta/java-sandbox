@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	
+	<modelVersion>4.0.0</modelVersion>
+	
+	<groupId>com.bennavetta.sandbox</groupId>
+	<artifactId>java-sandbox</artifactId>
+	<version>1.0.0</version>
+	<packaging>jar</packaging>
+	
+	<name>Java Sandbox</name>
+	<description>
+		A Java library that allows sandboxing operations with an arbitrary permission set.
+	</description>
+	<url>https://github.com/roguePanda/java-sandbox</url>
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>ttp://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	<scm>
+		<connection>scm:git:https://github.com/roguePanda/java-sandbox.git</connection>
+		<developerConnection>scm:git:git@github.com:roguePanda/java-sandbox.git</developerConnection>
+		<url>https://github.com/roguePanda/java-sandbox</url>
+	</scm>
+	<developers>
+		<developer>
+			<id>ben</id>
+			<name>Ben</name>
+			<roles>
+				<role>developer</roles>
+			</roles>
+			<timezone>-5</timezone>
+		</developer>
+	</developers>
+	
+</project>
