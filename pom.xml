@@ -32,7 +32,7 @@
 			<id>ben</id>
 			<name>Ben</name>
 			<roles>
-				<role>developer</roles>
+				<role>developer</role>
 			</roles>
 			<timezone>-5</timezone>
 		</developer>
